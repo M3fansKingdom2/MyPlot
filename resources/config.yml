@@ -59,7 +59,7 @@ DefaultWorld: Plot
   ResetPrice: 0
 
   # The size of a plot
-  PlotSize: 250
+  PlotSize: 500
   # The height of a plot
   GroundHeight: 64
   # The width of the road
